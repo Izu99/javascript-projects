@@ -24,11 +24,10 @@ A modern and interactive quiz app built with HTML, CSS, and JavaScript. This app
 ## Installation
 
 ### 1. Clone the repository:
-```bash
+
 git clone https://github.com/yourusername/quiz-app.git
 2. Navigate into the project directory:
-bash
-Copy code
+
 cd quiz-app
 3. Open the index.html file in your browser to view the app.
 How it Works
@@ -53,10 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgements
 Open Trivia Database API: For providing the free quiz data.
 Poppins Font: A modern, clean font used in the app design.
-yaml
-Copy code
 
----
 
 ### Sections Explained:
 1. **Project Description:** Brief overview of the app's functionality.
@@ -74,7 +70,7 @@ Copy code
 ### Adding Your Image:
 Replace the line below with your actual image path:
 ```markdown
-![Quiz App Screenshot](./image.png)
+![Quiz App Screenshot](https://github.com/Izu99/javascript-projects/blob/main/project3/image.png)
 Simply upload your image to a folder (e.g., images/) in your project and reference it in the README.md.
 
 Let me know if you need further modifications!
