@@ -70,7 +70,7 @@ Poppins Font: A modern, clean font used in the app design.
 ### Adding Your Image:
 Replace the line below with your actual image path:
 ```markdown
-![Quiz App Screenshot](https://github.com/Izu99/javascript-projects/blob/main/project3/image.png)
+![Quiz App Screenshot](https://github.com/Izu99/javascript-projects/blob/main/project3/image.png?raw=true)
 Simply upload your image to a folder (e.g., images/) in your project and reference it in the README.md.
 
 Let me know if you need further modifications!
