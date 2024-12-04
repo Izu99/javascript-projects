@@ -11,7 +11,7 @@ A modern and interactive quiz app built with HTML, CSS, and JavaScript. This app
 
 ## Preview
 
-![Quiz App Screenshot]((https://github.com/Izu99/javascript-projects/blob/main/project3/image.png?raw=true)
+![Quiz App Screenshot](![Quiz App Screenshot](https://github.com/Izu99/javascript-projects/blob/main/project3/image.png?raw=true)
 )
 
 
